@@ -1,0 +1,34 @@
+PODS:
+  - ObjectMapper (3.5.2)
+  - SDWebImage (5.7.2):
+    - SDWebImage/Core (= 5.7.2)
+  - SDWebImage/Core (5.7.2)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (4.3.0)
+  - WaterfallLayout (0.2)
+
+DEPENDENCIES:
+  - ObjectMapper (~> 3.4)
+  - SDWebImage (~> 5.0)
+  - SnapKit (~> 4.2)
+  - SwiftyJSON (~> 4.2)
+  - WaterfallLayout
+
+SPEC REPOS:
+  trunk:
+    - ObjectMapper
+    - SDWebImage
+    - SnapKit
+    - SwiftyJSON
+    - WaterfallLayout
+
+SPEC CHECKSUMS:
+  ObjectMapper: b53ae947d370bf89423e86be7d4e2d2b2a8d3f40
+  SDWebImage: d9ea4959d99c52276dfada481987018fcaea3d58
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  WaterfallLayout: 030e04b041e5c6c47ae2c1eaa685c60289fab0b1
+
+PODFILE CHECKSUM: d0ba695a54f00eed22fe53328d7b480beee9b92c
+
+COCOAPODS: 1.9.1
